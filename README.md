@@ -87,4 +87,6 @@ One of the main things I learned from the comparison is that there isn't necessa
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+The code in this repository was developed as part of my MSc Computer Science project at the University of Liverpool and is licensed under the MIT License.
+
+The datasets used in this project are sourced from Kaggle and remain subject to their respective licenses and terms of use.
